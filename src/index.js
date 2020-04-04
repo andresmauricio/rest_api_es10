@@ -1,6 +1,5 @@
 import "@babel/polyfill";
 import app from './server';
-import { connnect } from './database';
 
 
 async function main() {
